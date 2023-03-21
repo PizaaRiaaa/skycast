@@ -1,0 +1,8 @@
+{
+  "projectName": "skycast",
+  "meta": {
+    "type": "frontend"
+  },
+  "packageManager": "npm",
+  "hash": "d8c237c0"
+}

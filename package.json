@@ -1,0 +1,19 @@
+{
+  "name": "skycast",
+  "version": "1.0.0",
+  "description": "a simple weather app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PizaaRiaaa/skycast.git"
+  },
+  "author": "rikki mae martinez",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/PizaaRiaaa/skycast/issues"
+  },
+  "homepage": "https://github.com/PizaaRiaaa/skycast#readme"
+}
